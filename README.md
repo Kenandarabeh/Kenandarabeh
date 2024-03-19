@@ -1,4 +1,4 @@
-<img align="center" width="100%" src="https://global.discourse-cdn.com/business7/uploads/streamlit/original/2X/e/ed23c4266286aff53a936f793d52c5854b0be100.gif">
+<img align="center" width="900" src="https://global.discourse-cdn.com/business7/uploads/streamlit/original/2X/e/ed23c4266286aff53a936f793d52c5854b0be100.gif">
 
 <h1 align="center">Hi 👋, I'm kenanda abdelouahad rabah</h1>
 <h3 align="center">A passionate full stack and react native developer from Algeria</h3>
