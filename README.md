@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available at [https://kenanda-rabah.onrender.com/](https://kenanda-rabah.onrender.com/)
 
-- 📫 How to reach me **rabeh2020ken@gmail.com**
+- 📫 my Email is : **rabeh2020ken@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
