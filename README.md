@@ -1,3 +1,5 @@
+<img align="center" src="https://imarticus.org/blog/wp-content/uploads/2020/05/co.gif">
+
 <h1 align="center">Hi 👋, I'm kenanda abdelouahad rabah</h1>
 <h3 align="center">A passionate full stack and react native developer from Algeria</h3>
 
