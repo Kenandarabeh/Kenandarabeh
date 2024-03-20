@@ -1,4 +1,4 @@
-<img align="center" width="100%" height="400" src="https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/141841617/original/9dd7bbeca7152f499a5b00b7abb58f40b53fcc23/create-an-animated-gif-for-you.png">
+<img align="center" width="100%" height="100" src="https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/141841617/original/9dd7bbeca7152f499a5b00b7abb58f40b53fcc23/create-an-animated-gif-for-you.png">
 
 <h1 align="center">Hi 👋, I'm kenanda abdelouahad rabah</h1>
 <h3 align="center">A passionate full stack and react native developer from Algeria</h3>
