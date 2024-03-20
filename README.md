@@ -1,4 +1,4 @@
-<img align="center" width="100%" height="100" src="https://hackernoon.imgix.net/hn-images/1*KbC-gUATfgCAHLos0n-Bqg.gif">
+<img align="center" width="100%" height="100" src="https://text.media.giphy.com/v1/media/giphy.gif?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXkiOiJwcm9kLTIwMjAtMDQtMjIiLCJzdHlsZSI6ImZsb2F0aWUiLCJ0ZXh0IjoiY29kaW5nIiwiaWF0IjoxNzEwODk0MDk2fQ.LXgLhxHMA0YVThaKoMy4YZX67wqCNwNIftbwdqy0erk&cid=a559de6bc01ea38123bc0cdc78ce97820533a787519ed15d&dynamic_style=floatie&ep=v1_text_animate&rid=giphy.gif&ct=t">
 
 <h1 align="center">Hi 👋, I'm kenanda abdelouahad rabah</h1>
 <h3 align="center">A passionate full stack and react native developer from Algeria</h3>
