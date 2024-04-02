@@ -1,4 +1,4 @@
-<img align="center"  width="100%" height="200" src="https://text.media.giphy.com/v1/media/giphy.gif?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXkiOiJwcm9kLTIwMjAtMDQtMjIiLCJzdHlsZSI6ImZsb2F0aWUiLCJ0ZXh0IjoiY29kaW5nIiwiaWF0IjoxNzEwODk0MDk2fQ.LXgLhxHMA0YVThaKoMy4YZX67wqCNwNIftbwdqy0erk&cid=a559de6bc01ea38123bc0cdc78ce97820533a787519ed15d&dynamic_style=floatie&ep=v1_text_animate&rid=giphy.gif&ct=t">
+<img align="center"  width="100%" height="200" src="https://media.licdn.com/dms/image/D5612AQEuxisRMPU1vQ/article-cover_image-shrink_600_2000/0/1663754310491?e=2147483647&v=beta&t=AGRY2oSx7U4dL0cemLF3tN-eKN6_idPe_N9-6HATMaM">
 
 <h1 align="center">Hi 👋, I'm kenanda abdelouahad rabah</h1>
 <h3 align="center">A passionate mern stack and react native developer from Algeria</h3>
