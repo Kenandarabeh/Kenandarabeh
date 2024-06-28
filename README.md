@@ -1,7 +1,7 @@
 <img align="center"  width="100%" height="250" src="https://i.pinimg.com/originals/d4/81/f3/d481f3c72e283309071f79e01b05c06d.gif">
 
 <h1 align="center">Hi 👋, I'm kenanda abdelouahad rabah</h1>
-<h3 align="center">A passionate mern stack and react native developer from Algeria</h3>
+<h3 align="center">A passionate mern stack and flutter developer from Algeria</h3>
 
 - 👨‍💻 All of my projects are available at [https://kenanda-rabah.onrender.com/](https://kenanda-rabah.onrender.com/)
 
