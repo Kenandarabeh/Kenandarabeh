@@ -60,7 +60,3 @@ I'm a **Full-Stack Developer** with expertise in **MERN Stack** (MongoDB, Expres
 - **Portfolio:** [https://kenanda-rabah.onrender.com/](https://kenanda-rabah.onrender.com/)
 
 ---
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kenandarabeh&color=blue&style=flat" alt="Profile Views" />
-</p>
