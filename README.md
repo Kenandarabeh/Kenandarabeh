@@ -1,7 +1,7 @@
 <img align="center" width="100%" height="300" src="https://i.pinimg.com/originals/d4/81/f3/d481f3c72e283309071f79e01b05c06d.gif">
 
 <h1 align="center">Hi 👋, I'm Kenanda Abdelouahad Rabah</h1>
-<h3 align="center">A Passionate Full-Stack Developer | MERN Stack | Flutter | Django</h3>
+<h3 align="center">A Passionate Full-Stack Developer | MERN Stack | Flutter | Django | React Native</h3>
 
 <p align="center">
   <a href="https://kenanda-rabah.onrender.com/" target="_blank">🌐 Portfolio</a> •
@@ -15,7 +15,7 @@
 
 ### 🚀 About Me
 
-I'm a **Full-Stack Developer** with expertise in **MERN Stack** (MongoDB, Express.js, React, Node.js), **Flutter** for cross-platform mobile development, and **Django** for building robust backend systems. I thrive on solving complex problems and creating scalable, user-friendly applications. My goal is to deliver high-quality solutions while continuously learning and adapting to new technologies.
+I'm a **Full-Stack Developer** with expertise in **MERN Stack** (MongoDB, Express.js, React, Node.js), **Flutter** for cross-platform mobile development, **Django** for building robust backend systems, and **React Native** for mobile app development. I thrive on solving complex problems and creating scalable, user-friendly applications. My goal is to deliver high-quality solutions while continuously learning and adapting to new technologies.
 
 ---
 
@@ -48,34 +48,6 @@ I'm a **Full-Stack Developer** with expertise in **MERN Stack** (MongoDB, Expres
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
-
----
-
-### 🏆 Featured Projects
-
-#### 1. **[E-Commerce Platform](https://github.com/kenandarabeh/project1)**
-   - A full-stack e-commerce platform built with **MERN Stack**.
-   - Features: User authentication, product management, payment integration.
-   - **Tech Stack:** React, Node.js, Express, MongoDB.
-
-#### 2. **[Task Management App](https://github.com/kenandarabeh/project2)**
-   - A cross-platform mobile app for task management using **Flutter**.
-   - Features: Real-time synchronization, offline mode, and intuitive UI.
-   - **Tech Stack:** Flutter, Firebase.
-
-#### 3. **[Blogging Platform](https://github.com/kenandarabeh/project3)**
-   - A blogging platform built with **Django** and **React**.
-   - Features: User authentication, rich text editor, and responsive design.
-   - **Tech Stack:** Django, React, PostgreSQL.
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kenandarabeh&show_icons=true&theme=dark" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kenandarabeh&layout=compact&theme=dark" alt="Top Languages" />
-</p>
 
 ---
 
