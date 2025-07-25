@@ -9,7 +9,10 @@
   <a href="https://twitter.com/kenandarabeh" target="_blank">🐦 Twitter</a> •
   <a href="https://linkedin.com/in/kenanda-abdelouahad-rabah" target="_blank">💼 LinkedIn</a> •
   <a href="https://github.com/kenandarabeh" target="_blank">🐙 GitHub</a>
-  <a href="https://drive.google.com/drive/folders/1A7inlXrKK_Oexvnuy9N9o0IUd7WC9oG9?usp" target="_blank"> google Drive</a>
+<a href="https://drive.google.com/drive/folders/1A7inlXrKK_Oexvnuy9N9o0IUd7WC9oG9?usp=drive_link" target="_blank" style="display: flex; align-items: center; text-decoration: none; color: inherit;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/d/da/Google_Drive_logo.png" alt="Google Drive" width="24" height="24" style="margin-right: 8px;">
+    Google Drive
+</a>
 </p>
 
 ---
